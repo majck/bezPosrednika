@@ -1,0 +1,2 @@
+# bezPosrednika
+project bez posrednika
